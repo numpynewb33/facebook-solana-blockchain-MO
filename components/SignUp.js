@@ -47,10 +47,10 @@ const SignUp = ({ setRegistered, name, setName, url, setUrl }) => {
     <div className={style.wrapper}>
       <div className={style.logoContainer}>
         <Image
-          src='https://socialmedia-solana-blockchain-mo.vercel.app/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Ffractal-launchpad-public-assets%2Fmetaops-assets%2Fimages%2F10.jpg&w=32&q=75'
+          src='https://storage.googleapis.com/fractal-launchpad-public-assets/metaops-assets/images/1.jpg'
           height={40}
           width={40}
-          alt='facebook logo'
+          alt=''
         />
       </div>
       <div className={style.title}>Please sign up to use Facebook</div>
