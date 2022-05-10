@@ -46,7 +46,7 @@ const Header = ({ name, url }) => {
           <input
             type='text'
             className={style.searchInput}
-            placeholder='Search Facebook'
+            placeholder='Search MetaOps'
           />
         </div>
       </div>

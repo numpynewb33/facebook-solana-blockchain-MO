@@ -31,7 +31,7 @@ const RightSidebar = ({ getUsers, users }) => {
           <div className={style.adImageContainer}>
             <Image
               src={
-                'https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/284832/settings_images/HpzVcovxQz28Br7GkRyq_15289248_269068140162594_1580546814749307408_o_1_.png'
+                'https://metaopsgaming.com/wp-content/uploads/2022/04/landing-v2-mobile-970x1024.jpg'
               }
               height={100}
               width={100}
@@ -41,8 +41,8 @@ const RightSidebar = ({ getUsers, users }) => {
             ˚
           </div>
           <div>
-            <div>The #1 Channel for Blockchain Development</div>
-            <div className={style.adLink}>cleverprogrammer.com</div>
+            <div>The #1 Gaming Project on Solana MetaOps</div>
+            <div className={style.adLink}>metaopsgaming.com</div>
           </div>
         </div>
         <div className={style.ad}>
@@ -60,6 +60,23 @@ const RightSidebar = ({ getUsers, users }) => {
           <div>
             <div>Powerful for developers. Fast for everyone.</div>
             <div className={style.adLink}>solana.com</div>
+          </div>
+        </div>
+        <div className={style.ad}>
+          <div className={style.adImageContainer}>
+            <Image
+              src={
+                'https://www.prnewswire.com/news-releases/twitch-co-founder-launches-fractal-a-new-marketplace-for-gaming-nfts-301451914.html#'
+              }
+              height={100}
+              width={100}
+              className={style.adImage}
+              alt='solana logo'
+            />
+          </div>
+          <div>
+            <div>The #1 Marketplace for Gaming NFTs on Solana.</div>
+            <div className={style.adLink}>fractal.is</div>
           </div>
         </div>
         <div className={style.divider} />

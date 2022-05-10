@@ -53,7 +53,7 @@ const SignUp = ({ setRegistered, name, setName, url, setUrl }) => {
           alt=''
         />
       </div>
-      <div className={style.title}>Please sign up to use Facebook</div>
+      <div className={style.title}>Please sign up to use Social Media Platform</div>
       <form onSubmit={createUser} className={style.form}>
         <div className={style.fieldContainer}>
           <div className={style.inputTitle}>Name</div>
