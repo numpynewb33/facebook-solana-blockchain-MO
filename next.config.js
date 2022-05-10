@@ -3,6 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: [
+      'metaopsgaming.com',
+      'www.prnewswire.com',
       'storage.googleapis.com',
       'avatars.dicebear.com',
       'avatars.githubusercontent.com',
