@@ -66,7 +66,7 @@ const RightSidebar = ({ getUsers, users }) => {
           <div className={style.adImageContainer}>
             <Image
               src={
-                'https://mma.prnewswire.com/media/1707716/FRACTAL.html'
+                'https://mma.prnewswire.com/media/1707716/FRACTAL.png'
               }
               height={100}
               width={100}
