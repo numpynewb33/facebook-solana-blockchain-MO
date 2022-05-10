@@ -3,6 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   images: {
     domains: [
+      'storage.googleapis.com',
       'avatars.dicebear.com',
       'avatars.githubusercontent.com',
       'upload.wikimedia.org',

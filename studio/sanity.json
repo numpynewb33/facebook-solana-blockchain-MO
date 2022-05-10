@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "ynlo4532",
+    "dataset": "production"
+  },
   "project": {
     "name": "facebook-clone"
-  },
-  "api": {
-    "projectId": "jq3scfjr",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
