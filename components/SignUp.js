@@ -47,7 +47,7 @@ const SignUp = ({ setRegistered, name, setName, url, setUrl }) => {
     <div className={style.wrapper}>
       <div className={style.logoContainer}>
         <Image
-          src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png'
+          src='https://github.com/numpynewb33/token-list/blob/main/assets/mainnet/ExN3MaZLB5VhjGZ75qUuJ8ENkNiUvCCdA7j85vCcNicQ/logo.png?raw=true'
           height={40}
           width={40}
           alt='facebook logo'
