@@ -36,7 +36,7 @@ const RightSidebar = ({ getUsers, users }) => {
               height={100}
               width={100}
               className={style.adImage}
-              alt='cp logo'
+              alt=''
             />
             ˚
           </div>
@@ -71,11 +71,11 @@ const RightSidebar = ({ getUsers, users }) => {
               height={100}
               width={100}
               className={style.adImage}
-              alt='solana logo'
+              alt=''
             />
           </div>
           <div>
-            <div>The #1 Marketplace for Gaming NFTs on Solana.</div>
+            <div>Top Ranked Marketplace for Gaming NFTs on Solana.</div>
             <div className={style.adLink}>fractal.is</div>
           </div>
         </div>
