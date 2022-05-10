@@ -66,7 +66,7 @@ const RightSidebar = ({ getUsers, users }) => {
           <div className={style.adImageContainer}>
             <Image
               src={
-                'https://www.prnewswire.com/news-releases/twitch-co-founder-launches-fractal-a-new-marketplace-for-gaming-nfts-301451914.html#'
+                'https://mma.prnewswire.com/media/1707716/FRACTAL.html'
               }
               height={100}
               width={100}
@@ -75,7 +75,7 @@ const RightSidebar = ({ getUsers, users }) => {
             />
           </div>
           <div>
-            <div>Top Ranked Marketplace for Gaming NFTs on Solana.</div>
+            <div>Twitch Co-Founders announces Fractal, Gaming NFTs on Solana.</div>
             <div className={style.adLink}>fractal.is</div>
           </div>
         </div>

@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     domains: [
       'metaopsgaming.com',
-      'www.prnewswire.com',
+      'mma.prnewswire.com',
       'storage.googleapis.com',
       'avatars.dicebear.com',
       'avatars.githubusercontent.com',
